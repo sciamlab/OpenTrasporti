@@ -79,3 +79,8 @@ a list of interesting initiatives, projects and tools we considered during the d
 
 
 
+License
+-------
+
+    Graphics and Images artifacts are licensed under CC-BY 4.0 by SciamLab s.r.l. / Rome, Italy
+    Text artifacts are licensed under CC0 Public Domain
