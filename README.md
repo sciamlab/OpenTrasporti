@@ -15,10 +15,8 @@ You can find all the resources related to GTFS in the [dedicated file](GTFS.md)
 
   - http://opentnet.eu/
   - http://project.opentransportnet.eu/
-  - sample map 1:
-    http://www.opentransportnet.eu/create-maps?hs_x=252385.51276911635&hs_y=6246085.207523053&hs_z=15&visible_layers=Topographic%3Btraffic%20volumes%20on%20Paris%20roads%20-%20typical%20week%20in%20spring&hs_panel=status_creator
-  - sample map 2:
-    http://www.opentransportnet.eu/fr/create-maps?hs_x=251035.04749816813&hs_y=6245502.062845862&hs_z=15&visible_layers=Topographic%3BParkings%20sur%20le%20territoire%20de%20Grand%20Paris%20Seine%20Ouest%3BGares%20et%20stations%20du%20r%C3%A9seau%20ferr%C3%A9%20(par%20ligne)%3BStations%20V%C3%A9lib%20-%20Disponibilit%C3%A9s%20en%20temps%20r%C3%A9el%3BStations%20et%20espaces%20AutoLib%20de%20la%20m%C3%A9tropole%20parisienne%3BEv%C3%A9nements%20impactant%20les%20d%C3%A9placements
+  - [sample map 1](http://www.opentransportnet.eu/create-maps?hs_x=252385.51276911635&hs_y=6246085.207523053&hs_z=15&visible_layers=Topographic%3Btraffic%20volumes%20on%20Paris%20roads%20-%20typical%20week%20in%20spring&hs_panel=status_creator)
+  - [sample map 2](http://www.opentransportnet.eu/fr/create-maps?hs_x=251035.04749816813&hs_y=6245502.062845862&hs_z=15&visible_layers=Topographic%3BParkings%20sur%20le%20territoire%20de%20Grand%20Paris%20Seine%20Ouest%3BGares%20et%20stations%20du%20r%C3%A9seau%20ferr%C3%A9%20(par%20ligne)%3BStations%20V%C3%A9lib%20-%20Disponibilit%C3%A9s%20en%20temps%20r%C3%A9el%3BStations%20et%20espaces%20AutoLib%20de%20la%20m%C3%A9tropole%20parisienne%3BEv%C3%A9nements%20impactant%20les%20d%C3%A9placements)
 
   - https://github.com/opentransportnet
 
@@ -52,11 +50,6 @@ You can find all the resources related to GTFS in the [dedicated file](GTFS.md)
   http://sdi4apps.eu/
 
 
-
-* gtfs-csv2rdf
-  -------------
-  Mapping library which transforms GTFS CSV files into GTFS triples using the [GTFS vocabulary](http://vocab.gtfs.org/).
-  https://github.com/OpenTransport/gtfs-csv2rdf
 
 * List of Transport related Glossaries and Thesaurus
   ----------------------------------------------------
