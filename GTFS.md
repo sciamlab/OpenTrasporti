@@ -6,7 +6,7 @@ The Realtime GTFS "feeds" are based on [Protocol Buffers](https://github.com/goo
 ## Static GTFS
 
 * [Static GTFS official Google documentation](https://developers.google.com/transit/gtfs/)
-* ER Diagram
+* GTFS ER Diagram
   ![GTFS ER-Diagram](img/gtfs-feed-diagram.png)
 
 ## Realtime GTFS
@@ -14,6 +14,7 @@ The Realtime GTFS "feeds" are based on [Protocol Buffers](https://github.com/goo
 * [Realtime GTFS official Google documentation](https://developers.google.com/transit/gtfs-realtime/)
 * [Realtime GTFS reference](https://github.com/google/transit/blob/master/gtfs-realtime/spec/en/reference.md) (on GitHub)
 * Typical Update Frequencies
+
   ![Realtime GTFS Update Frequencies](img/gtfs_update_frequencies.png)
 
 
