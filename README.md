@@ -1,26 +1,12 @@
 
- Open Trasporti
-================
-a list of interesting initiatives, projects and tools we considered during the development of the Open Trasporti platform:
+# Open Trasporti
+This is a list of useful resources we are considering for the development of the Open Trasporti platform.
 
 
-* General Transit Feed Specification (gtfs)
-  -------------------------------------------
-  - http://lov.okfn.org/dataset/lov/vocabs/gtfs
-
-  - http://www.gtfs-data-exchange.com/
-
-  List of italian GTFS and other Transport API
-  - Google Maps Transit (https://www.google.com/intl/it/landing/transit/)
-  - List of GTFS in Italy https://www.google.com/landing/transit/cities/index.html
-
-  - http://www.gtfs-data-exchange.com/agencies/bylocation
+## General Transit Feed Specification (GTFS)
+You can find all the resources related to GTFS in the [dedicated file](GTFS.md)
 
 
-* GTFS Based Visualization ond services
-  -------------------------------------
-  - The Netherlands Rail - [Realtime NL Trasport tracker](http://spoorkaart.mwnn.nl/)
-  - Swiss Travic - [Realtime Travic Trasport tracker](http://tracker.geops.ch/)
 
 * Open Transport Net
   --------------------
