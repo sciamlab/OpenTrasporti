@@ -6,10 +6,13 @@ This is a list of useful resources we are considering for the development of the
 ## General Transit Feed Specification (GTFS)
 You can find all the resources related to GTFS in the [dedicated file](GTFS.md)
 
-
+## Transport related Ontologies, Vocabularies, Thesaurus and Glossaries
+- [TRANSIT: A vocabulary for describing transit systems and routes](http://vocab.org/transit/)
+- [Ontology of Transportation Networks](http://rewerse.net/deliverables/m18/a1-d4.pdf)
+- [Glossario di Tecnica, Informatica, Documentazione e Contrattualistica per i Trasporti in Particolare Marittimi](http://bartoc.org/en/node/17706)
 
 ## Open Transport Net
-OpenTransportNet is an exciting new project designed to revolutionise the way transport related services are created across Europe.
+OpenTransportNet is a project designed to revolutionise the way transport related services are created across Europe.
 It provide, Open Data, Maps and Apps
 
 - http://opentnet.eu/
@@ -48,7 +51,7 @@ http://sdi4apps.eu/
 
 ## List of Transport related Glossaries and Thesaurus
 
-- [Glossario di Tecnica, Informatica, Documentazione e Contrattualistica per i Trasporti in Particolare Marittimi](http://bartoc.org/en/node/17706)
+
 
 
 
